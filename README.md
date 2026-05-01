@@ -433,7 +433,7 @@ chatgpt.com/api/auth/session
 - **企业团队,5 人及以上**:选 Team(\$25/人/月年付),有管理后台和数据隐私保障
 - **轻度使用,一周用几次**:Free 够用,等需求增加再升级
 
-[ChatGPT 自助代充平台](https://t.3ms.run/g) 同时支持 Plus 和 Pro 的充值,Team 可以联系客服获取企业批量方案。
+[ChatGPT 自助代充平台](https://t.3ms.run/g) 同时支持 Plus 和 Pro 的充值。
 
 ---
 
